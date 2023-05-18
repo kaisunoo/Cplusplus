@@ -1,4 +1,4 @@
-/*Learning Task - Queues
+/*Learning Task - Queues in Data Structures and Algorithm
 Espano, Kyla Caryl B.
 Isidro, Mary Grace
 Navarro, Maria Cleofe R.
