@@ -1,5 +1,5 @@
-/*Learning Task - Sorting
-Españo, Kyla Caryl B.*/
+/*Learning Task - Sorting in Data Structures and Algorithm (DSA)
+EspaÃ±o, Kyla Caryl B.*/
 
 /*Write a C++ program that will sort the sequence 3, 10, 4, 1, 5, 9, 2, 6, 5 using:
 a.)selection sort     b.)bubble sort     and c.) insertion sort
